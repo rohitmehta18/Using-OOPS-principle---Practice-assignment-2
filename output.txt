@@ -1,0 +1,8 @@
+Laptop added to inventory.
+Mouse added to inventory.
+10 units added to Laptop. Current stock: 10
+50 units added to Mouse. Current stock: 50
+3 units of Laptop sold. Remaining stock: 7
+Not enough stock to sell 60 units of Mouse. Current stock: 50
+Stock for Laptop: 7
+Stock for Mouse: 50
